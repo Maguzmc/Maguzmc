@@ -193,7 +193,7 @@ if ($result = $conn->query($sql1)) {
 			  </Select><br>
 	Central Heating Temp Set: <select name="cht_temp" class="droptemp" style="margin-left: 57px"> 
 			  <option value="Same"><script>document.write(cht_temp)</script></option>
-			  <option value="23.0">22.5</option>
+			  <option value="23.0">23.0</option>
 			  <option value="22.5">22.5</option>
 			  <option value="22.0">22.0</option>
 			  <option value="21.5">21.5</option>
